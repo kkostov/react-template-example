@@ -1,1 +1,2 @@
-Components, visualisation
+- Components, visualisation layer
+- View models (The VVM of MVVM)

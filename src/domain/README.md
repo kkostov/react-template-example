@@ -1,6 +1,8 @@
-Use Cases, and Model Objects. Custom logic happens here.
+- Model Objects
 
-Repository interfaces are also defined here
+- Use Cases, custom logic happens here.
+
+- Repository interfaces are also defined here
 
 - Doesn't know about the world (encapsulated)
 
