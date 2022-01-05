@@ -1,4 +1,4 @@
-import SpacecraftAdapter from "../../../data/adapter/spacecraftAdapter";
+import SpacecraftAdapter from "../../../data/adapter/SpaceCraftSource";
 import { Spacecraft } from "../../model/Spacecraft";
 
 interface GetSpacecraftsUseCaseResult {
